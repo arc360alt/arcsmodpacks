@@ -18,3 +18,7 @@ Changed version text to say "Minecraft PS1 1.2.0"
 Overhauled Main Menu
 Changed credits and attributions menu
 Bug Fixes
+
+Version 1.3:
+Adds Bitcrushed audio
+Bug Fixes

@@ -10,3 +10,8 @@ You can download this pack, but please report any bugs or inacurasies.
 
 ## Known Bugs:
 the place where the offhand slot was is just white (will be fixed in a later update)
+
+## Planed Features:
+- ALlways red beds (next update)
+- better world create screen (closer to mcpe 0.5)
+- more accuracy improvments

@@ -13,6 +13,17 @@ A Recreation of minecraft pocket edition for PC
 the place where the offhand slot was is just white (will be fixed in a later update)
 
 ## Planed Features:
-- Allways red beds (next update)
 - better world create screen (closer to mcpe 0.5)
 - more accuracy improvments
+
+## Changelogs:
+
+### Version 0.0? (i f-ed up the version numbering, oops)
+- Inital Release
+
+### Version 0.1 ig
+- Allways red beds
+- Copper can now make tools/armour
+- All ores now drop their blocks instead of thier raw variants (ex: Iron now drops the iron ore block instead of raw iron)
+- When using Moderner Beta whith the pocket preset it now no longer yells at you about experemantal features.
+#### IF YOU SEE ANY BUGS, PLEASE REPORT THEM TO ME!

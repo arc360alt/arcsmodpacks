@@ -7,3 +7,4 @@ Included Packs:
 #### MCPSX, Minecraft if it where on the PS1. [Download](https://modrinth.com/modpack/mcpsx)
 #### Very Optimized, it's in the name, I can get over 2000fps on my laptop. [Downlaod](https://github.com/arc360alt/arcsmodpacks/tree/main/Very%20Optimised)
 #### LegacyMC, a modpack that tries to replicate the Legacy versions of minecraft (xbox 360 edition) [Download](https://github.com/arc360alt/arcsmodpacks/releases/tag/lmc0.1)
+#### McPocketPC, A Recreation of minecraft pocket edition for PC [Download](https://github.com/arc360alt/arcsmodpacks/tree/main/MCPocketPC)

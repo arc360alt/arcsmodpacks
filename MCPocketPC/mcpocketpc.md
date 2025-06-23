@@ -26,4 +26,12 @@ the place where the offhand slot was is just white (will be fixed in a later upd
 - Copper can now make tools/armour
 - All ores now drop their blocks instead of thier raw variants (ex: Iron now drops the iron ore block instead of raw iron)
 - When using Moderner Beta whith the pocket preset it now no longer yells at you about experemantal features.
+
+### Version 0.2
+- Changed servers menu
+- Changed world create menu
+- Made Moderner Beta the defualt generator
+- stopped kelp from generating
+- bug fixes
+
 #### IF YOU SEE ANY BUGS, PLEASE REPORT THEM TO ME!

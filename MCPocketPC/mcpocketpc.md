@@ -18,16 +18,16 @@ the place where the offhand slot was is just white (will be fixed in a later upd
 
 ## Changelogs:
 
-### Version 0.0? (i f-ed up the version numbering, oops)
+### Version 1.0
 - Inital Release
 
-### Version 0.1 ig
+### Version 1.1
 - Allways red beds
 - Copper can now make tools/armour
 - All ores now drop their blocks instead of thier raw variants (ex: Iron now drops the iron ore block instead of raw iron)
 - When using Moderner Beta whith the pocket preset it now no longer yells at you about experemantal features.
 
-### Version 0.2
+### Version 1.2
 - Changed servers menu
 - Changed world create menu
 - Made Moderner Beta the defualt generator

@@ -34,4 +34,12 @@ the place where the offhand slot was is just white (will be fixed in a later upd
 - stopped kelp from generating
 - bug fixes
 
+### Version 1.3
+- Add a custom coded mod to move the hearts to the top left (this took me an hour to make)
+- Added old mob drops
+- The Moderner Beta "PE" Preset is pre selected
+- World creation screen changed
+- Multiplayer menu changed to only show a box to imput an IP and a join button
+- Bug fixes
+
 #### IF YOU SEE ANY BUGS, PLEASE REPORT THEM TO ME!
